@@ -1,0 +1,12 @@
+.form-container{
+    padding: 8px;
+}
+
+input[type="text"]{
+  margin: 20px;
+    padding: 8px;
+    border: 1px solid grey;
+    outline: none;
+    background: transparent;
+    color: grey;
+}
